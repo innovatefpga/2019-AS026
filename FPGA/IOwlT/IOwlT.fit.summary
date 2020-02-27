@@ -1,0 +1,20 @@
+Fitter Status : Successful - Sun Dec 01 02:10:04 2019
+Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Lite Edition
+Revision Name : IOwlT
+Top-level Entity Name : IOwlT
+Family : Cyclone V
+Device : 5CSEBA6U23I7
+Timing Models : Final
+Logic utilization (in ALMs) : 3,466 / 41,910 ( 8 % )
+Total registers : 5192
+Total pins : 213 / 314 ( 68 % )
+Total virtual pins : 0
+Total block memory bits : 1,051,392 / 5,662,720 ( 19 % )
+Total RAM Blocks : 134 / 553 ( 24 % )
+Total DSP Blocks : 6 / 112 ( 5 % )
+Total HSSI RX PCSs : 0
+Total HSSI PMA RX Deserializers : 0
+Total HSSI TX PCSs : 0
+Total HSSI PMA TX Serializers : 0
+Total PLLs : 0 / 6 ( 0 % )
+Total DLLs : 1 / 4 ( 25 % )

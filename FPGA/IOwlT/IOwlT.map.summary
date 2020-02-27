@@ -1,0 +1,17 @@
+Analysis & Synthesis Status : Successful - Sun Dec 01 02:04:35 2019
+Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Lite Edition
+Revision Name : IOwlT
+Top-level Entity Name : IOwlT
+Family : Cyclone V
+Logic utilization (in ALMs) : N/A
+Total registers : 5080
+Total pins : 213
+Total virtual pins : 0
+Total block memory bits : 1,051,392
+Total DSP Blocks : 6
+Total HSSI RX PCSs : 0
+Total HSSI PMA RX Deserializers : 0
+Total HSSI TX PCSs : 0
+Total HSSI PMA TX Serializers : 0
+Total PLLs : 0
+Total DLLs : 1
