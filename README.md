@@ -27,5 +27,5 @@ iOwlT: Sound Geolocalization System was developed by:
  * **Edna Barros**
 
 <p align="center">
-  <img height = "500" width = auto src="https://raw.githubusercontent.com/matheussfarias/iOwlT-Sound-Geolocalization-System/master/innovatefpga.jpeg">
+  <img  src="https://raw.githubusercontent.com/matheussfarias/iOwlT-Sound-Geolocalization-System/master/innovatefpga.jpeg">
 </p>
