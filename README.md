@@ -1,10 +1,8 @@
 # iOwlT: Sound Geolocalization System
 
-<p align="center"> 
-<img src="[ ](https://imgur.com/a/YVHBeaf)">
+<p align="center">
+  <img src="https://imgur.com/a/YVHBeaf">
 </p>
-
-
 
 [iOwlT](http://www.innovatefpga.com/cgi-bin/innovate/teams.pl?Id=AS026) is a geolocalization sound system based on the nature of prey searches by an nocturne owl. Using the technique of multilateration of signals, widely used in telecommunications, and the phase shift of a signal detected by distinct sensors well distributed in space, it is possible, with the knowledge of algebra and physics, to prove that in an N-dimensional space, just N+1 detectors are needed to accurately determine the origin of the event. As the real life has 3 dimensions only 4 sound sensors determines the location of an event.
 
@@ -20,8 +18,14 @@ The **demo video** can be found [here](https://youtu.be/tyNTH2mqUxQ)
 
 ## Authors
 
-iOwlT: Sound Geolocalization System was developed by **Matheus Farias** and **Davi Moreno**, guided by professors **Daniel Filgueiras** and **Edna Barros**
+iOwlT: Sound Geolocalization System was developed by:
+* **Matheus Farias**
+* **Davi Moreno**
 
-<p align="center"> 
-<img src="[ ](https://imgur.com/a/0ZQAI16)">
+ guided by professors:
+ * **Daniel Filgueiras**
+ * **Edna Barros**
+
+<p align="center">
+  <img src="https://imgur.com/a/0ZQAI16">
 </p>
